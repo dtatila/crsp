@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include crsp *.css
+recursive-include crsp *.csv
+recursive-include crsp *.html
+recursive-include crsp *.ico
+recursive-include crsp *.js
+recursive-include crsp *.json
+recursive-include crsp *.md
+recursive-include crsp *.png
+recursive-include crsp *.py
+recursive-include crsp *.svg
+recursive-include crsp *.txt
+recursive-exclude crsp *.pyc
