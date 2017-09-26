@@ -9,7 +9,7 @@
  "custom": 0, 
  "docstatus": 0, 
  "doctype": "DocType", 
- "document_type": "", 
+ "document_type": "Document", 
  "editable_grid": 1, 
  "engine": "InnoDB", 
  "fields": [
@@ -1009,7 +1009,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2017-09-25 21:36:35.399333", 
+ "modified": "2017-09-26 23:57:58.542125", 
  "modified_by": "Administrator", 
  "module": "CRSP Projects", 
  "name": "Crsp", 
