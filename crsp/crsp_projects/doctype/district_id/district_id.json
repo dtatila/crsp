@@ -41,7 +41,7 @@
    "reqd": 0, 
    "search_index": 0, 
    "set_only_once": 0, 
-   "unique": 0
+   "unique": 1
   }
  ], 
  "has_web_view": 0, 
@@ -54,7 +54,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2017-10-09 21:34:11.062470", 
+ "modified": "2017-10-09 22:29:50.932411", 
  "modified_by": "Administrator", 
  "module": "CRSP Projects", 
  "name": "District ID", 

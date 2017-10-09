@@ -1,7 +1,7 @@
 {
  "allow_copy": 0, 
  "allow_guest_to_view": 0, 
- "allow_import": 0, 
+ "allow_import": 1, 
  "allow_rename": 0, 
  "autoname": "field:location", 
  "beta": 0, 
@@ -41,7 +41,7 @@
    "reqd": 0, 
    "search_index": 0, 
    "set_only_once": 0, 
-   "unique": 0
+   "unique": 1
   }
  ], 
  "has_web_view": 0, 
@@ -54,7 +54,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2017-10-09 22:09:31.291536", 
+ "modified": "2017-10-09 23:14:17.803306", 
  "modified_by": "Administrator", 
  "module": "CRSP Projects", 
  "name": "Location", 
